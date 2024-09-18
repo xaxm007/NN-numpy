@@ -28,3 +28,6 @@ Derivations and code by:
   - [Saksham M.](https://github.com/xaxm007)
   - [Aavash A.](https://github.com/AaVaSh77)
   - [Ashish K.P.](https://github.com/ayyp1)
+
+## #Note:
+First session on [Critical-Indulgence](https://github.com/xaxm007/Critical-Indulgence).

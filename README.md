@@ -11,18 +11,21 @@ This neural network has two layers:
 
 The project demonstrates the use of NumPy for building and training a neural network from scratch, without relying on external machine learning libraries. 
 
-## Installation
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/xaxm007/NN-numpy.git
-2. Navigate to project directory:
+## Implementation
+1. Navigate to project directory:
     ```bash
-    cd NN-numpy
     pip install numpy
-3. To train the neural network, run the main script:
+    ```
+    
+2. To train the neural network, run the main script:
     ```bash
     python LogisticRegression.py
+    ```
+
+---
+
 ## Contributors:
 Derivations and code by: 
   - [Saksham M.](https://github.com/xaxm007)
